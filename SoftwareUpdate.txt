@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
